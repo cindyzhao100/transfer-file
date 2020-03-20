@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ComponentBundleSourcePath</key>
+	<string>Contents/Install/Root</string>
+	<key>ComponentSize</key>
+	<integer>0</integer>
+	<key>ComponentVersion</key>
+	<string>9.9.6:2833099</string>
+	<key>ListOfArchiveFiles</key>
+	<array>
+		<dict>
+			<key>ArchiveIsObfuscated</key>
+			<true/>
+			<key>ArchiveName</key>
+			<string>mcs-config</string>
+			<key>FileSize</key>
+			<integer>29</integer>
+			<key>IsDirectory</key>
+			<false/>
+			<key>IsSymbolicLink</key>
+			<false/>
+			<key>SHAChecksum</key>
+			<string>980c6423b78f2b6483a09e2133fe6a0282fa6a51b5a0f2cac6f1aee92f16c469</string>
+		</dict>
+	</array>
+	<key>ListOfExecutables</key>
+	<array/>
+	<key>ListOfFileEdits</key>
+	<array/>
+	<key>ListOfFiles</key>
+	<array>
+		<dict>
+			<key>CheckForExternalFileChanges</key>
+			<true/>
+			<key>ExternalSourcePath</key>
+			<string>../../../../Sophos Installer Components/SophosCloudConfig.plist</string>
+			<key>IsDirectory</key>
+			<false/>
+			<key>IsSymbolicLink</key>
+			<false/>
+			<key>NSFileGroupOwnerAccountName</key>
+			<string>wheel</string>
+			<key>NSFileOwnerAccountName</key>
+			<string>root</string>
+			<key>NSFilePosixPermissions</key>
+			<integer>420</integer>
+			<key>Path</key>
+			<string>/Library/Application Support/Sophos/mcs/config/configuration.plist</string>
+		</dict>
+	</array>
+	<key>ListOfGroups</key>
+	<array/>
+	<key>ListOfLaunchAgents</key>
+	<array/>
+	<key>ListOfLaunchDaemons</key>
+	<array/>
+	<key>ListOfManagedDaemons</key>
+	<array>
+		<string>com.sophos.mcsagent</string>
+	</array>
+	<key>ListOfNotifications</key>
+	<array/>
+	<key>ListOfUsers</key>
+	<array/>
+</dict>
+</plist>

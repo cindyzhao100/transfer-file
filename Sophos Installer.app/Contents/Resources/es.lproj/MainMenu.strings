@@ -1,0 +1,141 @@
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Traer todo al frente";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Ventana";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Minimizar";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Ventana";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "29"; */
+"29.title" = "Menú principal";
+
+/* Class = "NSMenuItem"; title = "Installer"; ObjectID = "56"; */
+"56.title" = "Installer";
+
+/* Class = "NSMenu"; title = "Installer"; ObjectID = "57"; */
+"57.title" = "Installer";
+
+/* Class = "NSMenuItem"; title = "About Installer"; ObjectID = "58"; */
+"58.title" = "Acerca de Installer";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Cerrar";
+
+/* Class = "NSMenuItem"; title = "Save…"; ObjectID = "75"; */
+"75.title" = "Guardar…";
+
+/* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "77"; */
+"77.title" = "Configurar página...";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; */
+"78.title" = "Imprimir…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "Archivo";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "Archivo";
+
+/* Class = "NSMenuItem"; title = "Show Files"; ObjectID = "112"; */
+"112.title" = "Mostrar archivos";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Servicios";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Servicios";
+
+/* Class = "NSMenuItem"; title = "Hide Installer"; ObjectID = "134"; */
+"134.title" = "Ocultar Installer";
+
+/* Class = "NSMenuItem"; title = "Quit Installer"; ObjectID = "136"; */
+"136.title" = "Salir de Installer";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Ocultar otros";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Mostrar todo";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "711"; */
+"711.title" = "Editar";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "712"; */
+"712.title" = "Editar";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "716"; */
+"716.title" = "Cortar";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "717"; */
+"717.title" = "Copiar";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "718"; */
+"718.title" = "Pegar";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "720"; */
+"720.title" = "Quitar";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "721"; */
+"721.title" = "Seleccionar todo";
+
+/* Class = "NSWindow"; title = "Install Sophos Endpoint"; ObjectID = "823"; */
+"823.title" = "Instalar Sophos Endpoint";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "865"; */
+"865.title" = "Continuar";
+
+/* Class = "NSTextFieldCell"; title = "Installation"; ObjectID = "1205"; */
+"1205.title" = "Instalación";
+
+/* Class = "NSTextFieldCell"; title = "Summary"; ObjectID = "1255"; */
+"1255.title" = "Resumen";
+
+/* Class = "NSTextFieldCell"; title = "Introduction"; ObjectID = "1325"; */
+"1325.title" = "Introducción";
+
+/* Class = "NSButtonCell"; title = "Go Back"; ObjectID = "1401"; */
+"1401.title" = "Retroceder";
+
+/* Class = "NSTextFieldCell"; title = "License"; ObjectID = "1459"; */
+"1459.title" = "Licencia";
+
+/* Class = "NSButtonCell"; title = "Save..."; ObjectID = "1571"; */
+"1571.title" = "Guardar...";
+
+/* Class = "NSTextFieldCell"; title = "License"; ObjectID = "1583"; */
+"1583.title" = "Licencia";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1595"; */
+"1595.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "1596"; */
+"1596.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "1597"; */
+"1597.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "1598"; */
+"1598.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "The installation was successful."; ObjectID = "1607"; */
+"1607.title" = "La instalación se ha completado de forma satisfactoria.";
+
+/* Class = "NSTextFieldCell"; title = "The software was installed."; ObjectID = "1609"; */
+"1609.title" = "Se instaló el software.";
+
+/* Class = "NSButtonCell"; title = "I accept the Sophos End User License Agreement"; ObjectID = "29t-cb-O3b"; */
+"29t-cb-O3b.title" = "Acepto el Acuerdo de licencia de usuario final de Sophos";
+
+/* Class = "NSButtonCell"; title = "Open Security & Privacy"; ObjectID = "gc9-EM-L6d"; */
+"gc9-EM-L6d.title" = "Abrir Seguridad y privacidad";
+
+/* Class = "NSButtonCell"; title = "Open Security & Privacy"; ObjectID = "4Y8-Od-rAT"; */
+"4Y8-Od-rAT.title" = "Abrir Seguridad y privacidad";

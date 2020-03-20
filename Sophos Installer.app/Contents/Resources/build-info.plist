@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildDate</key>
+	<string>Tue Feb 11 09:44:25 2020</string>
+	<key>BuildLabel</key>
+	<string>218596</string>
+	<key>BuildType</key>
+	<string>PRODUCTION</string>
+	<key>ChangeListNumber</key>
+	<string>2833099</string>
+	<key>ProductVersion</key>
+	<string>9.9.6</string>
+</dict>
+</plist>

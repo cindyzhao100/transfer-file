@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ListOfFiles</key>
+	<array>
+		<dict>
+			<key>RemoveOnly</key>
+			<true/>
+			<key>IsDirectory</key>
+			<true/>
+			<key>Path</key>
+			<string>/Builds</string>
+		</dict>
+		<dict>
+			<key>RemoveOnly</key>
+			<true/>
+			<key>IsDirectory</key>
+			<true/>
+			<key>RemoveDirectoryAndContents</key>
+			<true/>
+			<key>Path</key>
+			<string>/Builds/build_savmac</string>
+		</dict>
+		<dict>
+			<key>RemoveOnly</key>
+			<true/>
+			<key>Path</key>
+			<string>/Library/Extensions/SophosWebProtection.kext/Contents/Resources/en.lproj/InfoPlist.strings</string>
+		</dict>
+	</array>
+</dict>
+</plist>

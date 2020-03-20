@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ComponentBundleSourcePath</key>
+	<string>Contents/Install/Root</string>
+	<key>ComponentSize</key>
+	<integer>3076608</integer>
+	<key>ComponentVersion</key>
+	<string>9.9.6:2830042</string>
+	<key>ListOfArchiveFiles</key>
+	<array>
+		<dict>
+			<key>ArchiveIsObfuscated</key>
+			<true/>
+			<key>ArchiveName</key>
+			<string>confd</string>
+			<key>FileSize</key>
+			<integer>1197439</integer>
+			<key>IsDirectory</key>
+			<false/>
+			<key>IsSymbolicLink</key>
+			<false/>
+			<key>SHAChecksum</key>
+			<string>007d7efc6d1bd407625e994ac6ce23de1e9c3a8aeb9de8eb51aa06a3df7fa687</string>
+		</dict>
+	</array>
+	<key>ListOfExecutables</key>
+	<array/>
+	<key>ListOfFileEdits</key>
+	<array/>
+	<key>ListOfFiles</key>
+	<array>
+		<dict>
+			<key>IsDirectory</key>
+			<true/>
+			<key>IsSymbolicLink</key>
+			<false/>
+			<key>NSFileGroupOwnerAccountName</key>
+			<string>admin</string>
+			<key>NSFileOwnerAccountName</key>
+			<string>root</string>
+			<key>NSFilePosixPermissions</key>
+			<integer>493</integer>
+			<key>Path</key>
+			<string>/Library/Sophos Anti-Virus</string>
+		</dict>
+		<dict>
+			<key>ArchiveName</key>
+			<string>confd</string>
+			<key>FileSize</key>
+			<integer>3076608</integer>
+			<key>IsDirectory</key>
+			<false/>
+			<key>IsMach-OExecutable</key>
+			<true/>
+			<key>IsSymbolicLink</key>
+			<false/>
+			<key>NSFileGroupOwnerAccountName</key>
+			<string>admin</string>
+			<key>NSFileOwnerAccountName</key>
+			<string>root</string>
+			<key>NSFilePosixPermissions</key>
+			<integer>365</integer>
+			<key>Path</key>
+			<string>/Library/Sophos Anti-Virus/SophosConfigD</string>
+			<key>SHAChecksum</key>
+			<string>b58c2946befd7213f00a2b9ca90839865b58ad0dee428a6b49df02b912c7e145</string>
+		</dict>
+	</array>
+	<key>ListOfGroups</key>
+	<array/>
+	<key>ListOfLaunchAgents</key>
+	<array/>
+	<key>ListOfLaunchDaemons</key>
+	<array/>
+	<key>ListOfManagedDaemons</key>
+	<array>
+		<string>com.sophos.configuration</string>
+	</array>
+	<key>ListOfNotifications</key>
+	<array/>
+	<key>ListOfUsers</key>
+	<array/>
+</dict>
+</plist>

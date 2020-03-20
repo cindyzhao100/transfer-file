@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ListOfComponents</key>
+	<dict>
+		<key>10.10..</key>
+		<array>
+			<string>cleand</string>
+			<string>data</string>
+			<string>oas-kext</string>
+			<string>scand</string>
+			<string>ssvr</string>
+			<string>sxld</string>
+			<string>webd-home</string>
+			<string>webd-kext</string>
+			<string>nghui</string>
+		</array>
+	</dict>
+</dict>
+</plist>
